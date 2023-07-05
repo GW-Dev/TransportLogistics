@@ -1,0 +1,14 @@
+name = "Every Compat"
+filename = "everycomp-1.19.2-2.4.12.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/iFRxHMbm/everycomp-1.19.2-2.4.12.jar"
+hash-format = "sha512"
+hash = "2406f386b680aa22c50c0fc7be81fd918a40d7bef4fc87d98da2fca1ff8d3d3bf74054f3ecf9f8b149c8c0021eb3d1787133c5d42ce16b6a26198dbd29a29171"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "iFRxHMbm"

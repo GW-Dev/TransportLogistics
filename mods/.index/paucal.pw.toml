@@ -1,0 +1,14 @@
+name = "PAUCAL"
+filename = "paucal-forge-1.19.2-0.5.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/TZo2wHFe/versions/kClFVbTP/paucal-forge-1.19.2-0.5.0.jar"
+hash-format = "sha512"
+hash = "0142ba6fed7628f7820b971e870b5e8080c0e0dea7797307981c7ba5b1558aea630893df1d81b380c834317678db6549e3b8531b818ec8793fb0b0d7ec9d45db"
+
+[update]
+[update.modrinth]
+mod-id = "TZo2wHFe"
+version = "kClFVbTP"

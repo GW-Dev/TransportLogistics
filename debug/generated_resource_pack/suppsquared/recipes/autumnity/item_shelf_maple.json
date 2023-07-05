@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "autumnity:maple_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:autumnity/item_shelf_maple",
+          "count": 2
+        }
+      }
+    }
+  ]
+}

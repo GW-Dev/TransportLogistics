@@ -1,0 +1,14 @@
+name = "Hand Over Your Items"
+filename = "handoveryouritems-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Z9RMqaGu/versions/KYJMVxjw/handoveryouritems-1.19.2-3.0.jar"
+hash-format = "sha512"
+hash = "cf5a76dd59ad6b4541b559fe59009f9bd0ae9c6dc46f7258c1a205dc8f938b067cf56ed77388a2943f4c11da716ad93259fdb7fef64cb741de8d68a44e1a0880"
+
+[update]
+[update.modrinth]
+mod-id = "Z9RMqaGu"
+version = "KYJMVxjw"

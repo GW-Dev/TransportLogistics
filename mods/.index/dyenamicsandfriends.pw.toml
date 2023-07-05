@@ -1,0 +1,14 @@
+name = "Dyenamics and Friends"
+filename = "dyenamicsandfriends-1.19.2-1.5.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5SMDy8RU/versions/aKBD92US/dyenamicsandfriends-1.19.2-1.5.6.jar"
+hash-format = "sha512"
+hash = "16c831525acdd59b51654804124c980027c35b841ea4a3bdb18f95c610bc9b77d79e6f30d5991683b758eec9e033b127347cd2585afca0b86a7aedce2026202f"
+
+[update]
+[update.modrinth]
+mod-id = "5SMDy8RU"
+version = "aKBD92US"

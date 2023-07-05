@@ -1,0 +1,970 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 27, 2023, 12:11:30 PM
+
+#supplementaries:cage_baby_catchable
+- minecraft:cow (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:sheep (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:pig (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:goat (from supplementaries-1.19.2-2.3.19.jar)
+- goated:geep? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:crocodile? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:endergrade? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:gazelle? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:gorilla? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:komodo_dragon? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:raccoon? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:seal? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:warped_toad? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_sheep? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_cow? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_llama? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_pig? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_mooshroom? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:bald_eagle? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:gelada_monkey? (from supplementaries-1.19.2-2.3.19.jar)
+- adventurez:iguana? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:boar? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:bighorn_sheep? (from supplementaries-1.19.2-2.3.19.jar)
+- ecologics:squirrel? (from supplementaries-1.19.2-2.3.19.jar)
+- lovely_snails:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- endergetic:booflo? (from supplementaries-1.19.2-2.3.19.jar)
+- cave_enhancements:dripstone_tortoise? (from supplementaries-1.19.2-2.3.19.jar)
+- creatures_from_the_snow:snow_trover? (from supplementaries-1.19.2-2.3.19.jar)
+
+#alexsmobs:tiger_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:mimic_octopus_fears
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:dolphin (from alexsmobs-1.21.1.jar)
+- alexsmobs:orca (from alexsmobs-1.21.1.jar)
+- alexsmobs:hammerhead_shark (from alexsmobs-1.21.1.jar)
+- alexsmobs:mantis_shrimp (from alexsmobs-1.21.1.jar)
+- alexsmobs:cachalot_whale (from alexsmobs-1.21.1.jar)
+- alexsmobs:frilled_shark (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+
+#environmental:muddy_projectiles
+- environmental:mud_ball? (from neapolitan-1.19.2-4.0.2.jar)
+
+#occultism:humans
+- #forge:villagers (from occultism-1.19.2-1.80.12.jar)
+- minecraft:player (from occultism-1.19.2-1.80.12.jar)
+
+#forge:horses
+- minecraft:horse (from occultism-1.19.2-1.80.12.jar)
+
+#alexsmobs:scatters_crows
+- #alexsmobs:neutral_land_animals (from alexsmobs-1.21.1.jar)
+
+#carryon:stacking_blacklist
+
+#forge:pigs
+- minecraft:pig (from occultism-1.19.2-1.80.12.jar)
+
+#alexsmobs:fly_annoy_targets
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- minecraft:player (from alexsmobs-1.21.1.jar)
+
+#forge:parrots
+- minecraft:parrot (from occultism-1.19.2-1.80.12.jar)
+
+#forge:fishes
+- minecraft:cod (from blueprint-1.19.2-6.1.2.jar)
+- minecraft:salmon (from blueprint-1.19.2-6.1.2.jar)
+- minecraft:pufferfish (from blueprint-1.19.2-6.1.2.jar)
+- minecraft:tropical_fish (from blueprint-1.19.2-6.1.2.jar)
+- environmental:koi (from environmental-1.19.2-3.0.0.jar)
+
+#alexsmobs:crocodile_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+
+#environmental:scares_deer
+- minecraft:player (from environmental-1.19.2-3.0.0.jar)
+- minecraft:villager (from environmental-1.19.2-3.0.0.jar)
+- minecraft:wandering_trader (from environmental-1.19.2-3.0.0.jar)
+- #environmental:scares_trusting_deer (from environmental-1.19.2-3.0.0.jar)
+
+#alexsmobs:anaconda_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:crocodile (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:terrapin (from alexsmobs-1.21.1.jar)
+- minecraft:dolphin (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:devils_hole_pupfish (from alexsmobs-1.21.1.jar)
+
+#pet_cemetery:drops_pet_collar
+- minecraft:wolf (from pet_cemetery-1.19.2-1.0.3.jar)
+- minecraft:cat (from pet_cemetery-1.19.2-1.0.3.jar)
+- minecraft:parrot (from pet_cemetery-1.19.2-1.0.3.jar)
+- #pet_cemetery:zombie_pets (from pet_cemetery-1.19.2-1.0.3.jar)
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit (from Default)
+- minecraft:endermite (from Default)
+- minecraft:silverfish (from Default)
+- minecraft:fox (from Default)
+- alexsmobs:sunbird (from alexsmobs-1.21.1.jar)
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:mimicube (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:seal (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:tasmanian_devil (from alexsmobs-1.21.1.jar)
+- alexsmobs:bald_eagle (from alexsmobs-1.21.1.jar)
+- alexsmobs:tiger (from alexsmobs-1.21.1.jar)
+- alexsmobs:maned_wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- alexsmobs:bison (from alexsmobs-1.21.1.jar)
+- snowyspirit:sled (from snowyspirit-1.19.2-2.1.10.jar)
+
+#forge:llamas
+- minecraft:llama (from occultism-1.19.2-1.80.12.jar)
+- minecraft:trader_llama (from occultism-1.19.2-1.80.12.jar)
+
+#farmersdelight:dog_food_users
+- minecraft:wolf (from FarmersDelight-1.19-1.2.1.jar)
+
+#alexsmobs:void_portal_ignores
+- alexsmobs:void_portal (from alexsmobs-1.21.1.jar)
+- minecraft:end_crystal (from alexsmobs-1.21.1.jar)
+- minecraft:ender_dragon (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_fishtank
+- alexsmobs:lobster (from alexsmobs-1.21.1.jar)
+- alexsmobs:devils_hole_pupfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:mudskipper (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:passive_land_animals
+- minecraft:cat (from alexsmobs-1.21.1.jar)
+- minecraft:chicken (from alexsmobs-1.21.1.jar)
+- minecraft:cow (from alexsmobs-1.21.1.jar)
+- minecraft:donkey (from alexsmobs-1.21.1.jar)
+- minecraft:fox (from alexsmobs-1.21.1.jar)
+- minecraft:horse (from alexsmobs-1.21.1.jar)
+- minecraft:llama (from alexsmobs-1.21.1.jar)
+- minecraft:mule (from alexsmobs-1.21.1.jar)
+- minecraft:mooshroom (from alexsmobs-1.21.1.jar)
+- minecraft:ocelot (from alexsmobs-1.21.1.jar)
+- minecraft:panda (from alexsmobs-1.21.1.jar)
+- minecraft:parrot (from alexsmobs-1.21.1.jar)
+- minecraft:pig (from alexsmobs-1.21.1.jar)
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+- minecraft:sheep (from alexsmobs-1.21.1.jar)
+- minecraft:strider (from alexsmobs-1.21.1.jar)
+- minecraft:trader_llama (from alexsmobs-1.21.1.jar)
+- minecraft:wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:emu (from alexsmobs-1.21.1.jar)
+- alexsmobs:gazelle (from alexsmobs-1.21.1.jar)
+- alexsmobs:mungus (from alexsmobs-1.21.1.jar)
+- alexsmobs:platypus (from alexsmobs-1.21.1.jar)
+- alexsmobs:roadrunner (from alexsmobs-1.21.1.jar)
+- alexsmobs:seal (from alexsmobs-1.21.1.jar)
+- alexsmobs:shoebill (from alexsmobs-1.21.1.jar)
+- alexsmobs:tasmanian_devil (from alexsmobs-1.21.1.jar)
+- minecraft:goat (from alexsmobs-1.21.1.jar)
+- alexsmobs:toucan (from alexsmobs-1.21.1.jar)
+- alexsmobs:maned_wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- minecraft:frog (from alexsmobs-1.21.1.jar)
+- alexsmobs:blue_jay (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:villagers
+- minecraft:villager (from alexsmobs-1.21.1.jar)
+- minecraft:wandering_trader (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:ignores_kimono
+- minecraft:wither (from alexsmobs-1.21.1.jar)
+- alexsmobs:murmur (from alexsmobs-1.21.1.jar)
+- alexsmobs:murmur_head (from alexsmobs-1.21.1.jar)
+
+#minecraft:impact_projectiles
+- #minecraft:arrows (from Default)
+- minecraft:snowball (from Default)
+- minecraft:fireball (from Default)
+- minecraft:small_fireball (from Default)
+- minecraft:egg (from Default)
+- minecraft:trident (from Default)
+- minecraft:dragon_fireball (from Default)
+- minecraft:wither_skull (from Default)
+- supplementaries:rope_arrow (from supplementaries-1.19.2-2.3.19.jar)
+- supplementaries:brick_projectile (from supplementaries-1.19.2-2.3.19.jar)
+- environmental:mud_ball (from environmental-1.19.2-3.0.0.jar)
+- environmental:duck_egg (from environmental-1.19.2-3.0.0.jar)
+- atmospheric:passionfruit_seed (from atmospheric-1.19.2-5.0.0.jar)
+
+#minecraft:beehive_inhabitors
+- minecraft:bee (from Default)
+
+#environmental:unaffected_by_serenity
+
+#minecraft:skeletons
+- minecraft:skeleton (from Default)
+- minecraft:stray (from Default)
+- minecraft:wither_skeleton (from Default)
+
+#per_viam_invenire:replace_vanilla_navigator
+- occultism:foliot (from occultism-1.19.2-1.80.12.jar)
+- occultism:djinni (from occultism-1.19.2-1.80.12.jar)
+- occultism:afrit (from occultism-1.19.2-1.80.12.jar)
+- occultism:marid (from occultism-1.19.2-1.80.12.jar)
+- occultism:greedy_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:deer_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:cthulhu_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:devil_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:blacksmith_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:guardian_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:headless_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:chimera_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:goat_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:shub_niggurath_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:beholder_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:mummy_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:beaver_familiar (from occultism-1.19.2-1.80.12.jar)
+
+#supplementaries:urn_spawn
+- minecraft:silverfish (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:slime (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:bat (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:fly? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:cockroach? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:flutter? (from supplementaries-1.19.2-2.3.19.jar)
+- mowziesmobs:grottol? (from supplementaries-1.19.2-2.3.19.jar)
+
+#alexsmobs:monkey_target_with_dart
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- supplementaries:rope_arrow (from supplementaries-1.19.2-2.3.19.jar)
+- neapolitan:bananarrow (from neapolitan-1.19.2-4.0.2.jar)
+
+#forge:sheep
+- minecraft:sheep (from occultism-1.19.2-1.80.12.jar)
+
+#pet_cemetery:zombie_pets
+- pet_cemetery:zombie_wolf (from pet_cemetery-1.19.2-1.0.3.jar)
+- pet_cemetery:zombie_cat (from pet_cemetery-1.19.2-1.0.3.jar)
+- pet_cemetery:zombie_parrot (from pet_cemetery-1.19.2-1.0.3.jar)
+
+#forge:zombies
+- minecraft:zombie (from occultism-1.19.2-1.80.12.jar)
+- minecraft:zombie_villager (from occultism-1.19.2-1.80.12.jar)
+- minecraft:husk (from occultism-1.19.2-1.80.12.jar)
+- minecraft:drowned (from occultism-1.19.2-1.80.12.jar)
+
+#forge:bosses
+- minecraft:ender_dragon (from forge-1.19.2-43.2.6-universal.jar)
+- minecraft:wither (from forge-1.19.2-43.2.6-universal.jar)
+
+#alexsmobs:bunfungus_ignore_aoe_attacks
+- #alexsmobs:bunfungus_ignores (from alexsmobs-1.21.1.jar)
+- minecraft:creeper (from alexsmobs-1.21.1.jar)
+
+#upgrade_aquatic:jellyfish
+- upgrade_aquatic:box_jellyfish (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:cassiopea_jellyfish (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:immortal_jellyfish (from upgrade_aquatic-1.19.2-5.0.0.jar)
+
+#alexsmobs:snow_leopard_targets
+- minecraft:cow (from alexsmobs-1.21.1.jar)
+- minecraft:chicken (from alexsmobs-1.21.1.jar)
+- minecraft:donkey (from alexsmobs-1.21.1.jar)
+- minecraft:horse (from alexsmobs-1.21.1.jar)
+- minecraft:llama (from alexsmobs-1.21.1.jar)
+- minecraft:mule (from alexsmobs-1.21.1.jar)
+- minecraft:parrot (from alexsmobs-1.21.1.jar)
+- minecraft:pig (from alexsmobs-1.21.1.jar)
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+- minecraft:sheep (from alexsmobs-1.21.1.jar)
+- minecraft:goat (from alexsmobs-1.21.1.jar)
+- minecraft:trader_llama (from alexsmobs-1.21.1.jar)
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned (from Default)
+- minecraft:guardian (from Default)
+- minecraft:elder_guardian (from Default)
+- upgrade_aquatic:thrasher (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:great_thrasher (from upgrade_aquatic-1.19.2-5.0.0.jar)
+
+#forge:squid
+- minecraft:squid (from occultism-1.19.2-1.80.12.jar)
+
+#endergetic:not_balloon_attachable
+- upgrade_aquatic:flare (from upgrade_aquatic-1.19.2-5.0.0.jar)
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray (from Default)
+- minecraft:polar_bear (from Default)
+- minecraft:snow_golem (from Default)
+- minecraft:wither (from Default)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:froststalker (from alexsmobs-1.21.1.jar)
+- alexsmobs:tusklin (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:bison (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:orca_targets
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:seal (from alexsmobs-1.21.1.jar)
+- minecraft:polar_bear (from alexsmobs-1.21.1.jar)
+- minecraft:turtle (from alexsmobs-1.21.1.jar)
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:guardian (from alexsmobs-1.21.1.jar)
+- minecraft:elder_guardian (from alexsmobs-1.21.1.jar)
+
+#forge:spiders
+- minecraft:spider (from occultism-1.19.2-1.80.12.jar)
+
+#forge:golems/snow
+- minecraft:snow_golem (from occultism-1.19.2-1.80.12.jar)
+
+#alexsmobs:fly_hurt_targets
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:husk (from alexsmobs-1.21.1.jar)
+- minecraft:zombie_villager (from alexsmobs-1.21.1.jar)
+- minecraft:zombie (from alexsmobs-1.21.1.jar)
+
+#neapolitan:unaffected_by_slipping
+- neapolitan:chimpanzee (from neapolitan-1.19.2-4.0.2.jar)
+- neapolitan:plantain_spider (from neapolitan-1.19.2-4.0.2.jar)
+
+#carryon:stacking_whitelist
+
+#alexsmobs:sunbird_scorch_targets
+- #minecraft:skeletons (from alexsmobs-1.21.1.jar)
+- minecraft:zombie (from alexsmobs-1.21.1.jar)
+- minecraft:husk (from alexsmobs-1.21.1.jar)
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:phantom (from alexsmobs-1.21.1.jar)
+- minecraft:wither (from alexsmobs-1.21.1.jar)
+- minecraft:warden (from alexsmobs-1.21.1.jar)
+- alexsmobs:soul_vulture (from alexsmobs-1.21.1.jar)
+- alexsmobs:skelewag (from alexsmobs-1.21.1.jar)
+
+#neapolitan:explosion_heals_in_strawberry
+- minecraft:creeper (from neapolitan-1.19.2-4.0.2.jar)
+- savage_and_ravage:creepie? (from neapolitan-1.19.2-4.0.2.jar)
+
+#alexsmobs:crimson_mosquito_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:neutral_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+
+#pet_cemetery:skeleton_pets
+- pet_cemetery:skeleton_wolf (from pet_cemetery-1.19.2-1.0.3.jar)
+- pet_cemetery:skeleton_cat (from pet_cemetery-1.19.2-1.0.3.jar)
+- pet_cemetery:skeleton_parrot (from pet_cemetery-1.19.2-1.0.3.jar)
+
+#occultism:wild_hunt
+- occultism:wild_hunt_skeleton (from occultism-1.19.2-1.80.12.jar)
+- occultism:wild_hunt_wither_skeleton (from occultism-1.19.2-1.80.12.jar)
+
+#neapolitan:scares_chimpanzees
+- minecraft:dragon_fireball (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:evoker_fangs (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:fireball (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:firework_rocket (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:lightning_bolt (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:small_fireball (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:tnt (from neapolitan-1.19.2-4.0.2.jar)
+- minecraft:wither_skull (from neapolitan-1.19.2-4.0.2.jar)
+
+#forge:cows
+- minecraft:cow (from occultism-1.19.2-1.80.12.jar)
+
+#snowyspirit:sled_pullers
+- minecraft:wolf (from snowyspirit-1.19.2-2.1.10.jar)
+- minecraft:fox (from snowyspirit-1.19.2-2.1.10.jar)
+- quark:shiba? (from snowyspirit-1.19.2-2.1.10.jar)
+- quark:foxhound? (from snowyspirit-1.19.2-2.1.10.jar)
+- alexsmobs:grizzly_bear? (from snowyspirit-1.19.2-2.1.10.jar)
+- doggytalents:dog? (from snowyspirit-1.19.2-2.1.10.jar)
+
+#neapolitan:unaffected_by_harmony
+
+#minecraft:frog_food
+- minecraft:slime (from Default)
+- minecraft:magma_cube (from Default)
+- alexsmobs:fly (from alexsmobs-1.21.1.jar)
+
+#environmental:scares_trusting_deer
+- minecraft:wolf (from environmental-1.19.2-3.0.0.jar)
+- environmental:zombie_deer (from environmental-1.19.2-3.0.0.jar)
+- #minecraft:raiders (from environmental-1.19.2-3.0.0.jar)
+
+#alexsmobs:skunk_fears
+- minecraft:player (from alexsmobs-1.21.1.jar)
+- alexsmobs:grizzly_bear (from alexsmobs-1.21.1.jar)
+- minecraft:polar_bear (from alexsmobs-1.21.1.jar)
+
+#farmersdelight:horse_feed_users
+- minecraft:horse (from FarmersDelight-1.19-1.2.1.jar)
+- minecraft:skeleton_horse (from FarmersDelight-1.19-1.2.1.jar)
+- minecraft:zombie_horse (from FarmersDelight-1.19-1.2.1.jar)
+- minecraft:donkey (from FarmersDelight-1.19-1.2.1.jar)
+- minecraft:mule (from FarmersDelight-1.19-1.2.1.jar)
+- minecraft:llama (from FarmersDelight-1.19-1.2.1.jar)
+
+#neapolitan:chimpanzee_dart_targets
+- endergetic:bolloom_fruit? (from neapolitan-1.19.2-4.0.2.jar)
+- endergetic:bolloom_balloon? (from neapolitan-1.19.2-4.0.2.jar)
+
+#minecraft:raiders
+- minecraft:evoker (from Default)
+- minecraft:pillager (from Default)
+- minecraft:ravager (from Default)
+- minecraft:vindicator (from Default)
+- minecraft:illusioner (from Default)
+- minecraft:witch (from Default)
+
+#occultism:afrit_allies
+- minecraft:blaze (from occultism-1.19.2-1.80.12.jar)
+
+#forge:villagers
+- minecraft:villager (from occultism-1.19.2-1.80.12.jar)
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cod (from Default)
+- minecraft:squid (from Default)
+- minecraft:glow_squid (from Default)
+- minecraft:tadpole (from Default)
+- upgrade_aquatic:pike (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:perch (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:lionfish (from upgrade_aquatic-1.19.2-5.0.0.jar)
+
+#carryon:entity_whitelist
+
+#alexsmobs:giant_squid_targets
+- alexsmobs:blobfish (from alexsmobs-1.21.1.jar)
+- minecraft:cod (from alexsmobs-1.21.1.jar)
+- minecraft:salmon (from alexsmobs-1.21.1.jar)
+- minecraft:tropical_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:devils_hole_pupfish (from alexsmobs-1.21.1.jar)
+
+#supplementaries:eats_fodder
+- minecraft:pig? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:cow? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:sheep? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:chicken? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:goat? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:mooshroom? (from supplementaries-1.19.2-2.3.19.jar)
+- autumnity:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:raccoon? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:elephant? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:zebra? (from supplementaries-1.19.2-2.3.19.jar)
+- lovely_snails:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- creatures_from_the_snow:reindeer? (from supplementaries-1.19.2-2.3.19.jar)
+- creatures_from_the_snow:giraffe? (from supplementaries-1.19.2-2.3.19.jar)
+
+#supplementaries:tickable_when_captured
+- minecraft:endermite? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:spring_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:autumn_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:summer_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:winter_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:mimicube? (from supplementaries-1.19.2-2.3.19.jar)
+- iceandfire:pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- druidcraft:lunar_moth? (from supplementaries-1.19.2-2.3.19.jar)
+- druidcraft:dreadfish? (from supplementaries-1.19.2-2.3.19.jar)
+
+#supplementaries:flute_pet
+- minecraft:horse? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:zombie_horse? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:skeleton_horse? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:llama? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:mule? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:donkey? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:fox? (from supplementaries-1.19.2-2.3.19.jar)
+- horse_colors:horse_felinoid? (from supplementaries-1.19.2-2.3.19.jar)
+- ecologics:camel? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:zebra? (from supplementaries-1.19.2-2.3.19.jar)
+- lovely_snails:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- pet_cemetery:zombie_wolf? (from supplementaries-1.19.2-2.3.19.jar)
+- pet_cemetery:zombie_cat? (from supplementaries-1.19.2-2.3.19.jar)
+- pet_cemetery:zombie_parrot? (from supplementaries-1.19.2-2.3.19.jar)
+- pet_cemetery:skeleton_wolf? (from supplementaries-1.19.2-2.3.19.jar)
+- pet_cemetery:skeleton_parrot? (from supplementaries-1.19.2-2.3.19.jar)
+- pet_cemetery:skeleton_cat? (from supplementaries-1.19.2-2.3.19.jar)
+
+#forge:milkable
+- minecraft:cow (from blueprint-1.19.2-6.1.2.jar)
+- minecraft:mooshroom (from blueprint-1.19.2-6.1.2.jar)
+- minecraft:goat (from blueprint-1.19.2-6.1.2.jar)
+- environmental:yak (from environmental-1.19.2-3.0.0.jar)
+
+#supplementaries:rotatable
+- dummmmmmy:target_dummy? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:armor_stand (from supplementaries-1.19.2-2.3.19.jar)
+- xercapaint:easel? (from supplementaries-1.19.2-2.3.19.jar)
+
+#alexsmobs:neutral_land_animals
+- minecraft:polar_bear (from alexsmobs-1.21.1.jar)
+- alexsmobs:bald_eagle (from alexsmobs-1.21.1.jar)
+- alexsmobs:elephant (from alexsmobs-1.21.1.jar)
+- alexsmobs:endergrade (from alexsmobs-1.21.1.jar)
+- alexsmobs:grizzly_bear (from alexsmobs-1.21.1.jar)
+- alexsmobs:gorilla (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:rattlesnake (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:tiger (from alexsmobs-1.21.1.jar)
+- alexsmobs:anteater (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:mantis_shrimp_targets
+- alexsmobs:mimic_octopus (from alexsmobs-1.21.1.jar)
+- alexsmobs:lobster (from alexsmobs-1.21.1.jar)
+- minecraft:shulker (from alexsmobs-1.21.1.jar)
+- minecraft:squid (from alexsmobs-1.21.1.jar)
+- minecraft:guardian (from alexsmobs-1.21.1.jar)
+- minecraft:elder_guardian (from alexsmobs-1.21.1.jar)
+- minecraft:tropical_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:cachalot_whale_targets
+- alexsmobs:mimic_octopus (from alexsmobs-1.21.1.jar)
+- alexsmobs:giant_squid (from alexsmobs-1.21.1.jar)
+- minecraft:squid (from alexsmobs-1.21.1.jar)
+- minecraft:glow_squid (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_cage_3
+- alexsmobs:seagull (from alexsmobs-1.21.1.jar)
+- alexsmobs:toucan (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:potoo (from alexsmobs-1.21.1.jar)
+- alexsmobs:sugar_glider (from alexsmobs-1.21.1.jar)
+
+#supplementaries:jar_catchable
+- minecraft:slime? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:bee? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:magma_cube? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:allay? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:spring_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:autumn_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:summer_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:winter_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- bettermushroom:mushrooms_spores? (from supplementaries-1.19.2-2.3.19.jar)
+- untamedwilds:tarantula? (from supplementaries-1.19.2-2.3.19.jar)
+- wyrmroost:coin_dragon? (from supplementaries-1.19.2-2.3.19.jar)
+- fantasy:unicorn? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:enderiophage? (from supplementaries-1.19.2-2.3.19.jar)
+- iceandfire:pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:fly? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:hummingbird? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:cockroach? (from supplementaries-1.19.2-2.3.19.jar)
+- terraincognita:butterfly? (from supplementaries-1.19.2-2.3.19.jar)
+- buzzierbees:honey_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:frog? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:beetle? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:silkworm? (from supplementaries-1.19.2-2.3.19.jar)
+- druidcraft:lunar_moth? (from supplementaries-1.19.2-2.3.19.jar)
+- druidcraft:dreadfish? (from supplementaries-1.19.2-2.3.19.jar)
+- betterendforge:end_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- betterendforge:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- betterendforge:silk_moth? (from supplementaries-1.19.2-2.3.19.jar)
+- savageandravage:creepie? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:butterfly? (from supplementaries-1.19.2-2.3.19.jar)
+- whisperwoods:moth? (from supplementaries-1.19.2-2.3.19.jar)
+- infernalexp:glowsilk_moth? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:river_pebble_snail? (from supplementaries-1.19.2-2.3.19.jar)
+- tconstruct:sky_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:maze_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:firefly? (from supplementaries-1.19.2-2.3.19.jar)
+- cnb:sporeling? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:leaf_insect? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:cockroach? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:leafcutter_ant? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:rootling? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:butterfly? (from supplementaries-1.19.2-2.3.19.jar)
+- mushlings:mushling? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:crab? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:frog? (from supplementaries-1.19.2-2.3.19.jar)
+- sprout:bounce_bug? (from supplementaries-1.19.2-2.3.19.jar)
+- unusualend:ender_firefly? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:caterpillar? (from supplementaries-1.19.2-2.3.19.jar)
+- cave_enhancements:goop? (from supplementaries-1.19.2-2.3.19.jar)
+- the_bumblezone:honey_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- rottencreatures:scarab? (from supplementaries-1.19.2-2.3.19.jar)
+- rottencreatures:flying_scarab? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:helmit_crab? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:maze_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:tiny_bird? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:dwarf_rabbit? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- deeperdarker:sculk_leech? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:lightning_bug? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:lightning_bug_alternate? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:leaf_insect? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- sleep_tight:bedbug? (from supplementaries-1.19.2-2.3.19.jar)
+
+#domesticationinnovation:petstore_cage_2
+- alexsmobs:froststalker (from alexsmobs-1.21.1.jar)
+
+#upgrade_aquatic:thrasher_sonar_targets
+- minecraft:cod (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- minecraft:salmon (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- minecraft:tropical_fish (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- minecraft:dolphin (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- minecraft:axolotl (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:perch (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:pike (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- upgrade_aquatic:nautilus (from upgrade_aquatic-1.19.2-5.0.0.jar)
+- #upgrade_aquatic:jellyfish (from upgrade_aquatic-1.19.2-5.0.0.jar)
+
+#supplementaries:jar_baby_catchable
+- minecraft:rabbit (from supplementaries-1.19.2-2.3.19.jar)
+- bewitchment:toad? (from supplementaries-1.19.2-2.3.19.jar)
+
+#alexsmobs:warped_toad_targets
+- minecraft:silverfish (from alexsmobs-1.21.1.jar)
+- minecraft:spider (from alexsmobs-1.21.1.jar)
+- minecraft:cave_spider (from alexsmobs-1.21.1.jar)
+- alexsmobs:crimson_mosquito (from alexsmobs-1.21.1.jar)
+- alexsmobs:fly (from alexsmobs-1.21.1.jar)
+- alexsmobs:cockroach (from alexsmobs-1.21.1.jar)
+- alexsmobs:warped_mosco (from alexsmobs-1.21.1.jar)
+- alexsmobs:leafcutter_ant (from alexsmobs-1.21.1.jar)
+- alexsmobs:tarantula_hawk (from alexsmobs-1.21.1.jar)
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider (from Default)
+- minecraft:blaze (from Default)
+- minecraft:magma_cube (from Default)
+
+#carryon:entity_blacklist
+
+#alexsmobs:bunfungus_ignores
+- creeperoverhaul:mushroom_creeper? (from alexsmobs-1.21.1.jar)
+
+#neapolitan:plantain_spiders_can_replace
+- minecraft:spider (from neapolitan-1.19.2-4.0.2.jar)
+
+#domesticationinnovation:petstore_cage_1
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:flutter (from alexsmobs-1.21.1.jar)
+- alexsmobs:maned_wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- alexsmobs:sugar_glider (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_cage_0
+- minecraft:wolf (from alexsmobs-1.21.1.jar)
+- minecraft:cat (from alexsmobs-1.21.1.jar)
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:froststalker_targets
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- minecraft:goat (from alexsmobs-1.21.1.jar)
+- alexsmobs:tusklin (from alexsmobs-1.21.1.jar)
+
+#forge:chicken
+- minecraft:chicken (from occultism-1.19.2-1.80.12.jar)
+
+#occultism:healed_by_demons_dream_fruit
+- occultism:foliot (from occultism-1.19.2-1.80.12.jar)
+- occultism:djinni (from occultism-1.19.2-1.80.12.jar)
+- occultism:afrit (from occultism-1.19.2-1.80.12.jar)
+- occultism:afrit_wild (from occultism-1.19.2-1.80.12.jar)
+- occultism:marid (from occultism-1.19.2-1.80.12.jar)
+- occultism:possessed_endermite (from occultism-1.19.2-1.80.12.jar)
+- occultism:possessed_enderman (from occultism-1.19.2-1.80.12.jar)
+- occultism:possessed_ghast (from occultism-1.19.2-1.80.12.jar)
+- occultism:wild_hunt_skeleton (from occultism-1.19.2-1.80.12.jar)
+- occultism:wild_hunt_wither_skeleton (from occultism-1.19.2-1.80.12.jar)
+- occultism:otherworld_bird (from occultism-1.19.2-1.80.12.jar)
+- occultism:greedy_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:bat_familiar (from occultism-1.19.2-1.80.12.jar)
+- minecraft:parrot (from occultism-1.19.2-1.80.12.jar)
+- occultism:deer_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:cthulhu_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:devil_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:dragon_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:blacksmith_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:guardian_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:headless_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:chimera_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:goat_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:shub_niggurath_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:beholder_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:fairy_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:mummy_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:beaver_familiar (from occultism-1.19.2-1.80.12.jar)
+- occultism:shub_niggurath_spawn (from occultism-1.19.2-1.80.12.jar)
+
+#forge:bats
+- minecraft:bat (from occultism-1.19.2-1.80.12.jar)
+
+#supplementaries:cage_catchable
+- minecraft:slime? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:vex? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:bee? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:frog? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:allay? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:magma_cube? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:endermite? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:parrot? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:rabbit? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:cat? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:chicken? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:bat? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:fox? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:ocelot? (from supplementaries-1.19.2-2.3.19.jar)
+- sleep_tight:bedbug? (from supplementaries-1.19.2-2.3.19.jar)
+- ecologics:lizard? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:spring_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:autumn_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:summer_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- feywild:winter_pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_chicken? (from supplementaries-1.19.2-2.3.19.jar)
+- eanimod:enhanced_rabbit? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:foxhound? (from supplementaries-1.19.2-2.3.19.jar)
+- bettermushroom:shroomie? (from supplementaries-1.19.2-2.3.19.jar)
+- bettermushroom:shroomie_eater? (from supplementaries-1.19.2-2.3.19.jar)
+- bettermushroom:mushrooms_spores? (from supplementaries-1.19.2-2.3.19.jar)
+- untamedwilds:softshell_turtle? (from supplementaries-1.19.2-2.3.19.jar)
+- untamedwilds:tortoise? (from supplementaries-1.19.2-2.3.19.jar)
+- untamedwilds:tarantula? (from supplementaries-1.19.2-2.3.19.jar)
+- wyrmroost:lesser_desertwyrm? (from supplementaries-1.19.2-2.3.19.jar)
+- wyrmroost:roost_stalker? (from supplementaries-1.19.2-2.3.19.jar)
+- wyrmroost:coin_dragon? (from supplementaries-1.19.2-2.3.19.jar)
+- infernalexp:voline? (from supplementaries-1.19.2-2.3.19.jar)
+- infernalexp:shroomloin? (from supplementaries-1.19.2-2.3.19.jar)
+- kobolds:kobold_zombie? (from supplementaries-1.19.2-2.3.19.jar)
+- kobolds:kobold_child? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:mudhorse? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:raccoon? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:mungus? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:tasmanian_devil? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:enderiophage? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:platypus? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:crow? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:mimicube? (from supplementaries-1.19.2-2.3.19.jar)
+- iceandfire:pixie? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:fly? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:hummingbird? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:cockroach? (from supplementaries-1.19.2-2.3.19.jar)
+- terraincognita:butterfly? (from supplementaries-1.19.2-2.3.19.jar)
+- buzzierbees:honey_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:frog? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:beetle? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:silkworm? (from supplementaries-1.19.2-2.3.19.jar)
+- druidcraft:lunar_moth? (from supplementaries-1.19.2-2.3.19.jar)
+- druidcraft:dreadfish? (from supplementaries-1.19.2-2.3.19.jar)
+- swampexpansion:slabfish? (from supplementaries-1.19.2-2.3.19.jar)
+- endergetic:puff_bug? (from supplementaries-1.19.2-2.3.19.jar)
+- betterendforge:end_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- betterendforge:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- betterendforge:silk_moth? (from supplementaries-1.19.2-2.3.19.jar)
+- savageandravage:creepie? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:butterfly? (from supplementaries-1.19.2-2.3.19.jar)
+- whisperwoods:moth? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:river_pebble_snail? (from supplementaries-1.19.2-2.3.19.jar)
+- tconstruct:sky_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:maze_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:roadrunner? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:rattlesnake? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:lobster? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:capuchin_monkey? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:silver_fox? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:sprout? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:endermini? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:lava_cat? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:owl? (from supplementaries-1.19.2-2.3.19.jar)
+- mysticalworld:hell_sprout? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:crab? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:foxhound? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:stoneling? (from supplementaries-1.19.2-2.3.19.jar)
+- quark:frog? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:rat? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:piper? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:plague_doctor? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:black_death? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:plague_cloud? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:plague_beast? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:rat_king? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:demon_rat? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:ratlantean_spirit? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:ratlantean_automation? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:feral_ratlantean? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:neo_ratlantean? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:pirat? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:ghost_pirat? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:dutchrat? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:ratfish? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:ratlantean_ratbot? (from supplementaries-1.19.2-2.3.19.jar)
+- rats:rat_baron? (from supplementaries-1.19.2-2.3.19.jar)
+- goblintraders:goblin_trader? (from supplementaries-1.19.2-2.3.19.jar)
+- goblintraders:vein_goblin_trader? (from supplementaries-1.19.2-2.3.19.jar)
+- autumnity:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:lammergeier? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:songbird? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:pheasant? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:squirrel? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:badger? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:turkey? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:roadrunner? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:hummingbird? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:woodpecker? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:kingfisher? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:toucan? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:macaw? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:magpie? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:kiwi? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:owl? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:gouldianfinch? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:gull? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:pigeon? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:penguin? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:duck? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:booby? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:cardinal? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:bluejay? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:robin? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:kookaburra? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:budgerigar? (from supplementaries-1.19.2-2.3.19.jar)
+- exoticbirds:cockatoo? (from supplementaries-1.19.2-2.3.19.jar)
+- swampexpansion:slabfish? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:horseshoecrab? (from supplementaries-1.19.2-2.3.19.jar)
+- betteranimalsplus:crab? (from supplementaries-1.19.2-2.3.19.jar)
+- whisperwoods:wisp? (from supplementaries-1.19.2-2.3.19.jar)
+- undergarden:muncher? (from supplementaries-1.19.2-2.3.19.jar)
+- undergarden:scintling? (from supplementaries-1.19.2-2.3.19.jar)
+- undergarden:rotling? (from supplementaries-1.19.2-2.3.19.jar)
+- undergarden:sploogie? (from supplementaries-1.19.2-2.3.19.jar)
+- dungeonsmod:crow? (from supplementaries-1.19.2-2.3.19.jar)
+- dungeonsmod:anthermite? (from supplementaries-1.19.2-2.3.19.jar)
+- pandoras_creatures:crab? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:raven? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:bunny? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:penguin? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:tiny_bird? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:squirrel? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:kobold? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:death_tome? (from supplementaries-1.19.2-2.3.19.jar)
+- environmental:duck? (from supplementaries-1.19.2-2.3.19.jar)
+- environmental:cardinal? (from supplementaries-1.19.2-2.3.19.jar)
+- environmental:fennec_fox? (from supplementaries-1.19.2-2.3.19.jar)
+- environmental:slabfish? (from supplementaries-1.19.2-2.3.19.jar)
+- environmental:penguin? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:flatback_leaf_snail? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:penglil? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:river_pebble_snail? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:siderol_whiskered_snail? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:red_bull_crab? (from supplementaries-1.19.2-2.3.19.jar)
+- fins:white_bull_crab? (from supplementaries-1.19.2-2.3.19.jar)
+- habitat:pooka? (from supplementaries-1.19.2-2.3.19.jar)
+- habitat:passerine? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:seagull? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:toucan? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:jerboa? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:jerboa? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:potoo? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:flutter? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:rain_frog? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:sugar_glider? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:bluejay? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:canary? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:cardinal? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:robin? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:vulture? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:crow? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:toucan? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:seagull? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:bald_eagle? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:owl? (from supplementaries-1.19.2-2.3.19.jar)
+- ecologics:penguin? (from supplementaries-1.19.2-2.3.19.jar)
+- winteroverhaul:robin? (from supplementaries-1.19.2-2.3.19.jar)
+- untitledduckmod:duck? (from supplementaries-1.19.2-2.3.19.jar)
+- duckling:duck? (from supplementaries-1.19.2-2.3.19.jar)
+- goblintraders:goblin_trader? (from supplementaries-1.19.2-2.3.19.jar)
+- goblintraders:vein_goblin_trader? (from supplementaries-1.19.2-2.3.19.jar)
+- sprout:elephant? (from supplementaries-1.19.2-2.3.19.jar)
+- alexsmobs:jerboa? (from supplementaries-1.19.2-2.3.19.jar)
+- hedgehog:hedgehog? (from supplementaries-1.19.2-2.3.19.jar)
+- cnb:lizard? (from supplementaries-1.19.2-2.3.19.jar)
+- cutehermitcrabs:hermit_crab? (from supplementaries-1.19.2-2.3.19.jar)
+- ecologics:coconut_crab? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:scuttler? (from supplementaries-1.19.2-2.3.19.jar)
+- ars_nouveau:starbuncle? (from supplementaries-1.19.2-2.3.19.jar)
+- ars_nouveau:whirlisprig? (from supplementaries-1.19.2-2.3.19.jar)
+- the_bumblezone:honey_slime? (from supplementaries-1.19.2-2.3.19.jar)
+- rottencreatures:scarab? (from supplementaries-1.19.2-2.3.19.jar)
+- rottencreatures:flying_scarab? (from supplementaries-1.19.2-2.3.19.jar)
+- bewitchment:owl? (from supplementaries-1.19.2-2.3.19.jar)
+- bewitchment:raven? (from supplementaries-1.19.2-2.3.19.jar)
+- bewitchment:toad? (from supplementaries-1.19.2-2.3.19.jar)
+- biomemakeover:helmit_crab? (from supplementaries-1.19.2-2.3.19.jar)
+- graveyard:reaper? (from supplementaries-1.19.2-2.3.19.jar)
+- deeperdarker:sculk_leech? (from supplementaries-1.19.2-2.3.19.jar)
+- twilightforest:dwarf_rabbit? (from supplementaries-1.19.2-2.3.19.jar)
+- minecells:rancid_rat? (from supplementaries-1.19.2-2.3.19.jar)
+- minecells:mutated_bat? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:snail? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:firefly? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:caterpillar? (from supplementaries-1.19.2-2.3.19.jar)
+- naturalist:butterfly? (from supplementaries-1.19.2-2.3.19.jar)
+- friendsandfoes:mauler? (from supplementaries-1.19.2-2.3.19.jar)
+- friendsandfoes:glare? (from supplementaries-1.19.2-2.3.19.jar)
+- ants:ant? (from supplementaries-1.19.2-2.3.19.jar)
+- cave_enhancements:goop? (from supplementaries-1.19.2-2.3.19.jar)
+- cave_enhancements:cruncher? (from supplementaries-1.19.2-2.3.19.jar)
+- creatures_from_the_snow:penguin? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:leaf_insect? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:dragonfly? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:ferret? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:otter? (from supplementaries-1.19.2-2.3.19.jar)
+- crittersandcompanions:red_panda? (from supplementaries-1.19.2-2.3.19.jar)
+- enderscape:rubblemite? (from supplementaries-1.19.2-2.3.19.jar)
+
+#supplementaries:ash_blacklist
+- minecraft:iron_golem? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:slime? (from supplementaries-1.19.2-2.3.19.jar)
+- minecraft:magma_cube? (from supplementaries-1.19.2-2.3.19.jar)
+
+#alexsmobs:komodo_dragon_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:bald_eagle_targets
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+- minecraft:salmon (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)

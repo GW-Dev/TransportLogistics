@@ -1,0 +1,14 @@
+name = "Bad Wither No Cookie - Reloaded"
+filename = "bwncr-forge-1.19.2-3.14.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lL2MtE37/versions/reIAsA4D/bwncr-forge-1.19.2-3.14.1.jar"
+hash-format = "sha512"
+hash = "84c3b0286f20bf452dd0cd9cc51a1a90e8047a63f4e85cfbfc5f26e2be49335fb121e8930ddc7751c3a994b80fb56733e7213e225596319d4d78960ac16b9c17"
+
+[update]
+[update.modrinth]
+mod-id = "lL2MtE37"
+version = "reIAsA4D"

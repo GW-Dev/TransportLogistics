@@ -1,0 +1,14 @@
+name = "Jade Addons (Forge)"
+filename = "JadeAddons-1.19.2-forge-3.5.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/zTuVZQvR/JadeAddons-1.19.2-forge-3.5.0.jar"
+hash-format = "sha512"
+hash = "c1622b5cec3e69239254001b02d3643d3638ce2b4e4376e30015697284b427848fb6b3f7f5afb3b5655883ee39f29e9927af0ea9a045ef834d5099a7cf5db4cc"
+
+[update]
+[update.modrinth]
+mod-id = "xuDOzCLy"
+version = "zTuVZQvR"

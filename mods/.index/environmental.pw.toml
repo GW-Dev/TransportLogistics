@@ -1,0 +1,14 @@
+name = "Environmental"
+filename = "environmental-1.19.2-3.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "61b539fd388cc203d23176dd2778bc6411fd65d9"
+
+[update]
+[update.curseforge]
+file-id = 4415514
+project-id = 388992

@@ -1,0 +1,14 @@
+name = "Just Enough Professions (JEP)"
+filename = "JustEnoughProfessions-forge-1.19.2-2.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kB56GtWA/versions/f6FQCOos/JustEnoughProfessions-forge-1.19.2-2.0.2.jar"
+hash-format = "sha512"
+hash = "84d67038e4c7620f328319a9f1b0d001173daedc460286beada3126c6151f47d0cf57e21c059bb546e27aeda4266b44b98cdb883b3edd4fb46b1dc54650c7e98"
+
+[update]
+[update.modrinth]
+mod-id = "kB56GtWA"
+version = "f6FQCOos"

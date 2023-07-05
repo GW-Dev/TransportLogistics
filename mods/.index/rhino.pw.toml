@@ -1,0 +1,14 @@
+name = "Rhino"
+filename = "rhino-forge-1902.2.2-build.268.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/jvqq7lUX/rhino-forge-1902.2.2-build.268.jar"
+hash-format = "sha512"
+hash = "06d643cb4a80b3ce2331f2c6249e3d59d774c6acb9f49915cc6bb7e95868f201798b5bbab8199ee6e13b0f0c33f47a921c881019e85a9353041c15cada9b6b9d"
+
+[update]
+[update.modrinth]
+mod-id = "sk9knFPE"
+version = "jvqq7lUX"

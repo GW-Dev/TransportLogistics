@@ -1,0 +1,14 @@
+name = "Tool Stats"
+filename = "ToolStats-Forge-1.19.2-12.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vuGFx44e/versions/QDu9zr1o/ToolStats-Forge-1.19.2-12.1.4.jar"
+hash-format = "sha512"
+hash = "6f825536e478b1666b754dadb8ff88f7cc07575933c9b7da137b5ea11e7a1a8857bfb7f71ae5cb58713e432b640fc82fc9878d4e68ad4b59202eaa3b28459f6c"
+
+[update]
+[update.modrinth]
+mod-id = "vuGFx44e"
+version = "QDu9zr1o"
