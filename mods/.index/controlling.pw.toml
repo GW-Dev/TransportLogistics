@@ -1,14 +1,14 @@
 name = "Controlling"
-filename = "Controlling-forge-1.19.2-10.0+7.jar"
+filename = "Controlling-fabric-1.19.2-10.0+7.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/xv94TkTM/versions/cV6fmL90/Controlling-forge-1.19.2-10.0%2B7.jar"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/7mGcFotW/Controlling-fabric-1.19.2-10.0%2B7.jar"
 hash-format = "sha512"
-hash = "a002a61c9a27612523ae3baadc0e41e007438cf2432b0430cb4692aad5871c2c60eb7a20a40eb89baf6be5ce7b3968aad2766a7d9a8e16457220f1a4ad5ed383"
+hash = "d586a79522f81ee8bfe00e62182f49e8a8c9505cc8842130d95667ab72932f14be8e01c9d01bfe00cd34d1b1e9bdff0910e289141edcac34cd5534748ef9a9d0"
 
 [update]
 [update.modrinth]
 mod-id = "xv94TkTM"
-version = "cV6fmL90"
+version = "7mGcFotW"

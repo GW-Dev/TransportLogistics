@@ -1,14 +1,14 @@
 name = "Resourceful Lib"
-filename = "resourcefullib-forge-1.19.2-1.1.24.jar"
+filename = "resourcefullib-fabric-1.19.2-1.1.24.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/VdgtVVWP/resourcefullib-forge-1.19.2-1.1.24.jar"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/mxiPijSw/resourcefullib-fabric-1.19.2-1.1.24.jar"
 hash-format = "sha512"
-hash = "d960dca1a166da8dabf15d5e57c1fe1224e5eb91f7712ead223e867db51aff66534cc65f1528e2f11e6dae62796ddbe210ff992b896e96fce2adc2b8c0e4c97c"
+hash = "c8b126a281e1ccac68507c61592910c27d9519b5ccf450aad6ac4b2d384906b3a5363c8ae73a7186f3b155ee6e7a876df25169491eddc119653b4b32b8573102"
 
 [update]
 [update.modrinth]
 mod-id = "G1hIVOrD"
-version = "VdgtVVWP"
+version = "mxiPijSw"

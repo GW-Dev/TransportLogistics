@@ -10,6 +10,7 @@
     "animal_owner": true,
     "block_inventory.normal_amount": 9,
     "energy_storage.detailed": false,
+    "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "note_block": true,
     "beehive": true,
@@ -46,12 +47,6 @@
     "mob_spawner": true,
     "redstone": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "tombstone": {
-    "graves": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -62,16 +57,13 @@
   },
   "create": {
     "filter": true,
+    "backtank_capacity": true,
     "goggles.requires_goggles": true,
     "goggles": true,
-    "copper_backtank": true,
     "blaze_burner": true,
     "exact_block": true,
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
-  },
-  "lootr": {
-    "info": true
   }
 }

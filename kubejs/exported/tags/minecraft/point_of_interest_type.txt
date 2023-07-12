@@ -1,9 +1,8 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jun 27, 2023, 12:11:30 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jul 4, 2023, 3:50:51 PM
 
 #minecraft:bee_home
 - minecraft:beehive (from Default)
 - minecraft:bee_nest (from Default)
-- blueprint:beehive (from blueprint-1.19.2-6.1.2.jar)
 
 #minecraft:acquirable_job_site
 - minecraft:armorer (from Default)
@@ -19,7 +18,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:shepherd (from Default)
 - minecraft:toolsmith (from Default)
 - minecraft:weaponsmith (from Default)
-- vinery:winemaker_poi (from letsdo-vinery-forge-1.3.2.jar)
 
 #minecraft:village
 - #minecraft:acquirable_job_site (from Default)

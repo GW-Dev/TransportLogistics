@@ -1,14 +1,14 @@
 name = "YUNG's Extras"
-filename = "YungsExtras-1.19.2-Forge-3.1.0.jar"
+filename = "YungsExtras-1.19.2-Fabric-3.1.0.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/Ltax470w/YungsExtras-1.19.2-Forge-3.1.0.jar"
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/oODh25Uv/YungsExtras-1.19.2-Fabric-3.1.0.jar"
 hash-format = "sha512"
-hash = "94201787023b3fc0467405b1ba95b09ae505983d83edba554bf2fd2b82d16c67b4d288a358b5ddc3a9942f6e4ac37f7844bfb7a169a79ce1cecb844f8dba6ffd"
+hash = "36bf12dd0ff4b6dedbba6af153d5be662bba7155a954826c573bd9c4dcee6327edc82344b875846ce58fc1206eb574967e13884de4ec99899e00c0c046512a7c"
 
 [update]
 [update.modrinth]
 mod-id = "ZYgyPyfq"
-version = "Ltax470w"
+version = "oODh25Uv"

@@ -1,14 +1,14 @@
 name = "Jade 🔍"
-filename = "Jade-1.19.1-forge-8.8.1.jar"
+filename = "Jade-1.19.1-fabric-8.7.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/JSi5dyS2/Jade-1.19.1-forge-8.8.1.jar"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/ZASePpsm/Jade-1.19.1-fabric-8.7.3.jar"
 hash-format = "sha512"
-hash = "57086f8d5ea14b9aa3f4de413a15ed0be84b1ca1c5563cb8efb176183b25eeea161c33b16e9e766a2c9f3f222ecbf4ad14d81ae0539427396ad8478ae4975d12"
+hash = "78cfef5dfca89b2ffef1b2c98640425fdd97479d2d15020cd0b4992756a60351b65b32c877f310b11eb437233b233364c6fe4d995ca104c6487b04a395b77897"
 
 [update]
 [update.modrinth]
 mod-id = "nvQzSEkH"
-version = "JSi5dyS2"
+version = "ZASePpsm"

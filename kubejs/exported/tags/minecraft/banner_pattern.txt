@@ -1,4 +1,7 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jun 27, 2023, 12:11:30 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jul 4, 2023, 3:50:51 PM
+
+#minecraft:pattern_item/piglin
+- minecraft:piglin (from Default)
 
 #minecraft:no_item_required
 - minecraft:square_bottom_left (from Default)
@@ -36,38 +39,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:gradient_up (from Default)
 - minecraft:bricks (from Default)
 
-#alexsmobs:pattern_for_australia_1
-- alexsmobs:australia_1 (from alexsmobs-1.21.1.jar)
-
-#minecraft:pattern_item/creeper
-- minecraft:creeper (from Default)
-
-#alexsmobs:pattern_for_australia_0
-- alexsmobs:australia_0 (from alexsmobs-1.21.1.jar)
-
-#autumnity:pattern_item/maple_leaf
-- autumnity:maple_leaf (from autumnity-1.19.2-4.0.0.jar)
-
-#alexsmobs:pattern_for_bear
-- alexsmobs:bear (from alexsmobs-1.21.1.jar)
-
-#autumnity:pattern_item/swirl
-- autumnity:swirl (from autumnity-1.19.2-4.0.0.jar)
-
-#minecraft:pattern_item/skull
-- minecraft:skull (from Default)
-
-#minecraft:pattern_item/piglin
-- minecraft:piglin (from Default)
-
 #minecraft:pattern_item/flower
 - minecraft:flower (from Default)
 
-#neapolitan:pattern_item/chimpanzee
-- neapolitan:chimpanzee (from neapolitan-1.19.2-4.0.2.jar)
-
-#alexsmobs:pattern_for_brazil
-- alexsmobs:brazil (from alexsmobs-1.21.1.jar)
+#minecraft:pattern_item/creeper
+- minecraft:creeper (from Default)
 
 #minecraft:pattern_item/globe
 - minecraft:globe (from Default)
@@ -75,5 +51,5 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #minecraft:pattern_item/mojang
 - minecraft:mojang (from Default)
 
-#alexsmobs:pattern_for_new_mexico
-- alexsmobs:new_mexico (from alexsmobs-1.21.1.jar)
+#minecraft:pattern_item/skull
+- minecraft:skull (from Default)

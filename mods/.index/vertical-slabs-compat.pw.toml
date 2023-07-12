@@ -1,14 +1,14 @@
 name = "Vertical Slabs Compat"
-filename = "v_slab_compat-1.19.2-1.4.jar"
+filename = "v_slab_compat-1.19.2-1.4-fabric.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/DwaMaaW6/versions/ziQiAm0z/v_slab_compat-1.19.2-1.4.jar"
-hash-format = "sha512"
-hash = "0867759d0ef41433c08639f63dc7f75b33949e8c0a6a4139acda87df33090eb77c5056e2fb2588e74939a9d72c1f52c4be473ac387901e4313b9be6eba123f31"
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9222d9739ece24a430aeaad1790555987407259a"
 
 [update]
-[update.modrinth]
-mod-id = "DwaMaaW6"
-version = "ziQiAm0z"
+[update.curseforge]
+file-id = 4322500
+project-id = 724387

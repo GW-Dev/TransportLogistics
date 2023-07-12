@@ -5,4 +5,7 @@ console.info('Hello, World! (You will see this line every time client resources 
 JEIEvents.hideItems(event => {
 	// Hide items in JEI here
 	// event.hide('minecraft:cobblestone')
+
+	event.hide(	'delightfulcreators:purulent_tea')
+
 })
