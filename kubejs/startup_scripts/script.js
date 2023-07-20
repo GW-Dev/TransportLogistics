@@ -5,6 +5,8 @@ console.info('Hello, World! (You will only see this line once in console, during
 StartupEvents.registry('item', event => {
 	// Register new items here
 	// event.create('example_item').displayName('Example Item')
+
+	event.create('glass_shard','create:sequenced_assembly')
 })
 
 StartupEvents.registry('block', event => {

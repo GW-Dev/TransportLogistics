@@ -1,14 +1,14 @@
 name = "KubeJS"
-filename = "kubejs-fabric-1902.6.0-build.142.jar"
+filename = "kubejs-fabric-1902.6.1-build.311.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "e513b6b8a6b8f723368b42a56bcb66deb4829034"
+hash = "076d089fb1932202d8029f675d052b340772a9bd"
 
 [update]
 [update.curseforge]
-file-id = 4377174
+file-id = 4654092
 project-id = 238086

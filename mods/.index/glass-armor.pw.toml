@@ -1,0 +1,14 @@
+name = "Glass Armor"
+filename = "GlassArmor-1.0.0+1.19.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vz0zoOM2/versions/WsUsMOGo/GlassArmor-1.0.0%2B1.19.x.jar"
+hash-format = "sha512"
+hash = "07dcca416ab83380fe51b8268cb689e333b672b8aa5ff8fbd2ddc764dca0bf4b6aa69c325e3748a36016159ae34757b30a24a297e3637914b3f5f46919b4f796"
+
+[update]
+[update.modrinth]
+mod-id = "vz0zoOM2"
+version = "WsUsMOGo"

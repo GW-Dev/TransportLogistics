@@ -1,14 +1,14 @@
 name = "KubeJS Create"
-filename = "kubejs-create-fabric-1902.2.4-build.11.jar"
+filename = "kubejs-create-fabric-1902.2.4-build.26.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "7ad605fee1a827e7b76849342dacdb6a0c44e809"
+hash = "c28c8e0ccd6d1defc5dd66b392f5680ba65356d3"
 
 [update]
 [update.curseforge]
-file-id = 4600853
+file-id = 4653436
 project-id = 429371
