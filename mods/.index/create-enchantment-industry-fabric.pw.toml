@@ -1,14 +1,14 @@
 name = "Create Enchantment Industry"
-filename = "create_enchantment_industry-beta-0.1.9.jar"
+filename = "create_enchantment_industry-1.0.0.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/AEZO385x/versions/4jrTQQ0v/create_enchantment_industry-beta-0.1.9.jar"
+url = "https://cdn.modrinth.com/data/AEZO385x/versions/2JdzS4Rx/create_enchantment_industry-1.0.0.jar"
 hash-format = "sha512"
-hash = "11a981abb7b54829bd0619e65a73530d2c514441933a506488bc868962cbed870dd757715053265c0995869cffcd74ba52fd33d5f07ea6688e5442548ddbcd5f"
+hash = "d27eee6ebe30e3f775ff56f9db9ed936845c799309815ebac523bc93d30b86d4d56553619d7ea50b75c2bd4b17e471ddfd22160b1c2467ff82f9047eae33b15b"
 
 [update]
 [update.modrinth]
 mod-id = "AEZO385x"
-version = "4jrTQQ0v"
+version = "2JdzS4Rx"
